@@ -64,5 +64,3 @@ flowchart LR
 ## Stack
 
 TypeScript · Node.js / Express · TypeORM · PostgreSQL · MySQL · MongoDB · MinIO · Keycloak · Debezium · MQTT · Modbus · OPC UA · Docker · GitHub Actions
-
-<!-- TODO (Adnan): add a redacted dashboard or GIS screenshot. -->
