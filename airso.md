@@ -58,5 +58,3 @@ flowchart LR
 ## Stack
 
 TypeScript · Node.js / Express · MongoDB (Mongoose) · Next.js · JWT / Passport · Joi · Winston · Docker · PM2
-
-<!-- TODO (Adnan): add 1–2 redacted screenshots (allocation view, gate map) and, if you can share it, a simplified description of the allocation formula inputs. -->
